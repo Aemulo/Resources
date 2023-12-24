@@ -1,0 +1,78 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Added Key Path" : {
+      "extractionState" : "manual"
+    },
+    "Amiibo Key Path" : {
+      "extractionState" : "manual"
+    },
+    "Back" : {
+      "extractionState" : "manual"
+    },
+    "Cancel" : {
+      "extractionState" : "manual"
+    },
+    "Date" : {
+      "extractionState" : "manual"
+    },
+    "Enable Haptics" : {
+      "extractionState" : "manual"
+    },
+    "Failed with: %@" : {
+      "extractionState" : "manual"
+    },
+    "General" : {
+      "extractionState" : "manual"
+    },
+    "Invalid Key Path" : {
+      "extractionState" : "manual"
+    },
+    "key_retail.bin is invalid size. Should be 160 bytes." : {
+      "extractionState" : "manual"
+    },
+    "key_retain.bin does not match expected file hash." : {
+      "extractionState" : "manual"
+    },
+    "MiFare Dictionary Attack" : {
+      "extractionState" : "manual"
+    },
+    "Name" : {
+      "extractionState" : "manual"
+    },
+    "Present Phone to Reader" : {
+      "extractionState" : "manual"
+    },
+    "Present Tag to Read" : {
+      "extractionState" : "manual"
+    },
+    "Reader Settings" : {
+      "extractionState" : "manual"
+    },
+    "Sign in with Chariz" : {
+      "extractionState" : "manual"
+    },
+    "Sort By" : {
+      "extractionState" : "manual"
+    },
+    "Type A" : {
+      "extractionState" : "manual"
+    },
+    "Type ACM" : {
+      "extractionState" : "manual"
+    },
+    "Type B" : {
+      "extractionState" : "manual"
+    },
+    "Type ISO 15693" : {
+      "extractionState" : "manual"
+    },
+    "Type V" : {
+      "extractionState" : "manual"
+    },
+    "Which tag types to search for. If unsure leave all enabled." : {
+      "extractionState" : "manual"
+    }
+  },
+  "version" : "1.0"
+}

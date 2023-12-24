@@ -1,77 +1,77 @@
 {
-  "sourceLanguage" : "en",
+  "sourceLanguage" : "ru",
   "strings" : {
     "Added Key Path" : {
-      "extractionState" : "manual"
+      "extractionState" : "Добавлен путь ключа"
     },
     "Amiibo Key Path" : {
-      "extractionState" : "manual"
+      "extractionState" : "Путь к ключу Amiibo"
     },
     "Back" : {
-      "extractionState" : "manual"
+      "extractionState" : "Назад"
     },
     "Cancel" : {
-      "extractionState" : "manual"
+      "extractionState" : "Отмена"
     },
     "Date" : {
-      "extractionState" : "manual"
+      "extractionState" : "Дата"
     },
     "Enable Haptics" : {
-      "extractionState" : "manual"
+      "extractionState" : "Включить тактильную отдачу"
     },
     "Failed with: %@" : {
-      "extractionState" : "manual"
+      "extractionState" : "Не удалось: %@"
     },
     "General" : {
-      "extractionState" : "manual"
+      "extractionState" : "Основные"
     },
     "Invalid Key Path" : {
-      "extractionState" : "manual"
+      "extractionState" : "Неверный путь к ключу"
     },
     "key_retail.bin is invalid size. Should be 160 bytes." : {
-      "extractionState" : "manual"
+      "extractionState" : "key_retail.bin имеет недопустимый размер. Должен быть 160 байт."
     },
     "key_retain.bin does not match expected file hash." : {
-      "extractionState" : "manual"
+      "extractionState" : "key_retain.bin не соответствует ожидаемому хешу файла."
     },
     "MiFare Dictionary Attack" : {
-      "extractionState" : "manual"
+      "extractionState" : "Атака по словарю MiFare"
     },
     "Name" : {
-      "extractionState" : "manual"
+      "extractionState" : "Название"
     },
     "Present Phone to Reader" : {
-      "extractionState" : "manual"
+      "extractionState" : "Поднести телефон к считывателю"
     },
     "Present Tag to Read" : {
-      "extractionState" : "manual"
+      "extractionState" : "Поднести тег для чтения"
     },
     "Reader Settings" : {
-      "extractionState" : "manual"
+      "extractionState" : "Настройки чтения"
     },
     "Sign in with Chariz" : {
-      "extractionState" : "manual"
+      "extractionState" : "Войти с Chariz"
     },
     "Sort By" : {
-      "extractionState" : "manual"
+      "extractionState" : "Сортировать по"
     },
     "Type A" : {
-      "extractionState" : "manual"
+      "extractionState" : "Тип A"
     },
     "Type ACM" : {
-      "extractionState" : "manual"
+      "extractionState" : "Тип ACM"
     },
     "Type B" : {
-      "extractionState" : "manual"
+      "extractionState" : "Тип B"
     },
     "Type ISO 15693" : {
-      "extractionState" : "manual"
+      "extractionState" : "Тип ISO 15693"
     },
     "Type V" : {
-      "extractionState" : "manual"
+      "extractionState" : "Тип V"
     },
     "Which tag types to search for. If unsure leave all enabled." : {
-      "extractionState" : "manual"
+      "extractionState" : "Какие типы тегов искать. Если не уверены, оставьте все включенным."
     }
   },
   "version" : "1.0"

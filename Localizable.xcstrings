@@ -7,6 +7,9 @@
     "Amiibo Key Path" : {
       "extractionState" : "manual"
     },
+    "Amiibo Reader" : {
+      "extractionState" : "manual"
+    },
     "Back" : {
       "extractionState" : "manual"
     },
@@ -34,6 +37,9 @@
     "key_retain.bin does not match expected file hash." : {
       "extractionState" : "manual"
     },
+    "Manually Create" : {
+      "extractionState" : "manual"
+    },
     "MiFare Dictionary Attack" : {
       "extractionState" : "manual"
     },
@@ -46,6 +52,9 @@
     "Present Tag to Read" : {
       "extractionState" : "manual"
     },
+    "Read Tag" : {
+      "extractionState" : "manual"
+    },
     "Reader Settings" : {
       "extractionState" : "manual"
     },
@@ -53,6 +62,9 @@
       "extractionState" : "manual"
     },
     "Sort By" : {
+      "extractionState" : "manual"
+    },
+    "Standard Reader" : {
       "extractionState" : "manual"
     },
     "Type A" : {
@@ -68,6 +80,9 @@
       "extractionState" : "manual"
     },
     "Type V" : {
+      "extractionState" : "manual"
+    },
+    "Ultralight Reader" : {
       "extractionState" : "manual"
     },
     "Which tag types to search for. If unsure leave all enabled." : {

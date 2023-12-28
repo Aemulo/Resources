@@ -1,0 +1,78 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Added Key Path" : {
+      "extractionState" : "新增金鑰路徑"
+    },
+    "Amiibo Key Path" : {
+      "extractionState" : "Amiibo 金鑰路徑"
+    },
+    "Back" : {
+      "extractionState" : "返回"
+    },
+    "Cancel" : {
+      "extractionState" : "取消"
+    },
+    "Date" : {
+      "extractionState" : "刪除"
+    },
+    "Enable Haptics" : {
+      "extractionState" : "啟用 Haptics 回饋"
+    },
+    "Failed with: %@" : {
+      "extractionState" : "失敗原因："
+    },
+    "General" : {
+      "extractionState" : "一般"
+    },
+    "Invalid Key Path" : {
+      "extractionState" : "無效的金鑰路徑"
+    },
+    "key_retail.bin is invalid size. Should be 160 bytes." : {
+      "extractionState" : "key_retail.bin 的檔案大小錯誤，應該是160位元組。"
+    },
+    "key_retain.bin does not match expected file hash." : {
+      "extractionState" : "key_retain.bin 與預期的檔案校驗碼不符。"
+    },
+    "MiFare Dictionary Attack" : {
+      "extractionState" : "MiFare字典攻擊"
+    },
+    "Name" : {
+      "extractionState" : "名稱"
+    },
+    "Present Phone to Reader" : {
+      "extractionState" : "提供手機以讀卡"
+    },
+    "Present Tag to Read" : {
+      "extractionState" : "提供標籤以讀卡"
+    },
+    "Reader Settings" : {
+      "extractionState" : "讀卡機設定"
+    },
+    "Sign in with Chariz" : {
+      "extractionState" : "使用 Chariz 登入"
+    },
+    "Sort By" : {
+      "extractionState" : "排序方式"
+    },
+    "Type A" : {
+      "extractionState" : "A型"
+    },
+    "Type ACM" : {
+      "extractionState" : "ACM型"
+    },
+    "Type B" : {
+      "extractionState" : "B型"
+    },
+    "Type ISO 15693" : {
+      "extractionState" : "ISO 15693型"
+    },
+    "Type V" : {
+      "extractionState" : "V型"
+    },
+    "Which tag types to search for. If unsure leave all enabled." : {
+      "extractionState" : "要搜尋哪些標籤類型。如果不確定，請啟用所有類型。"
+    }
+  },
+  "version" : "1.0"
+}

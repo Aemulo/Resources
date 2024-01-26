@@ -1,0 +1,15 @@
+[
+    {
+        "manufacturer": 39,
+        "symbol": "key.fill"
+    },
+    {
+        "type": "AmiiboTag",
+        "symbol": "gamecontroller.fill"
+    },
+    {
+        "url": "https://found.apple.com",
+        "symbol": "airtag.fill"
+    }
+]
+

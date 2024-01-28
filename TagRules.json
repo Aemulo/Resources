@@ -8,6 +8,10 @@
         "symbol": "gamecontroller.fill"
     },
     {
+        "type": "EMVTag",
+        "symbol": "creditcard.fill"
+    },
+    {
         "url": "https://found.apple.com",
         "symbol": "airtag.fill"
     }

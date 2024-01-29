@@ -2,100 +2,364 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Added Key Path" : {
-      "extractionState" : "manual"
+      "comment" : "Hinzugefügter Key-Pfad",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinzugefügter Schlüsselpfad"
+          }
+        }
+      }
     },
     "Amiibo Key Path" : {
-      "extractionState" : "manual"
+      "comment" : "Amiibo Key-Pfad",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amiibo Schlüsselpfad"
+          }
+        }
+      }
     },
     "Amiibo Reader" : {
-      "extractionState" : "manual"
+      "comment" : "Amiibo Reader",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amiibo Lesegerät"
+          }
+        }
+      }
     },
     "Back" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zurück"
+          }
+        }
+      }
     },
     "Beta" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beta"
+          }
+        }
+      }
     },
     "Cancel" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        }
+      }
     },
     "Change Log" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Änderungsverlauf"
+          }
+        }
+      }
     },
     "Close" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schließen"
+          }
+        }
+      }
+    },
+    "Create manually" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manuell erstellen"
+          }
+        }
+      }
     },
     "Date" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datum"
+          }
+        }
+      }
     },
-    "Enable Haptics" : {
-      "extractionState" : "manual"
+    "Enable haptic Feedback" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haptisches Feedback aktivieren"
+          }
+        }
+      }
     },
     "Failed with: %@" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler: %@"
+          }
+        }
+      }
     },
     "General" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allgemein"
+          }
+        }
+      }
     },
     "Invalid Key Path" : {
-      "extractionState" : "manual"
+      "comment" : "Ungültiger Key-Pfad",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ungültiger Schlüsselpfad"
+          }
+        }
+      }
     },
-    "key_retail.bin is invalid size. Should be 160 bytes." : {
-      "extractionState" : "manual"
+    "key_retail.bin does not match expected file hash." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "key_retail.bin stimmt nicht mit dem erwarteten Hashwert überein."
+          }
+        }
+      }
     },
-    "key_retain.bin does not match expected file hash." : {
-      "extractionState" : "manual"
-    },
-    "Manually Create" : {
-      "extractionState" : "manual"
+    "key_retail.bin is of invalid size. Should be 160 bytes." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "key_retail.bin hat eine ungültige Dateigröße. Die Datei muss 160 Bytes groß sein."
+          }
+        }
+      }
     },
     "MiFare Dictionary Attack" : {
-      "extractionState" : "manual"
+      "comment" : "MiFare Dictionary Attacke",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MiFare Wörterbuch Attacke"
+          }
+        }
+      }
     },
     "Name" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
     },
     "Present Phone to Reader" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Handy an das Lesegerät halten"
+          }
+        }
+      }
     },
     "Present Tag to Read" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag an das Handy halten"
+          }
+        }
+      }
     },
     "Read Tag" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag lesen"
+          }
+        }
+      }
     },
     "Reader Settings" : {
-      "extractionState" : "manual"
+      "comment" : "Reader Einstellungen",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lese-Einstellungen"
+          }
+        }
+      }
     },
     "Sign in with Chariz" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit Chariz anmelden"
+          }
+        }
+      }
     },
     "Sort By" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sortieren nach"
+          }
+        }
+      }
     },
     "Standard Reader" : {
-      "extractionState" : "manual"
+      "comment" : "Standard Reader",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard Lesegerät"
+          }
+        }
+      }
     },
     "Type A" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ A"
+          }
+        }
+      }
     },
     "Type ACM" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ ACM"
+          }
+        }
+      }
     },
     "Type B" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ B"
+          }
+        }
+      }
     },
     "Type ISO 15693" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ ISO 15693"
+          }
+        }
+      }
     },
     "Type V" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ V"
+          }
+        }
+      }
     },
     "Ultralight Reader" : {
-      "extractionState" : "manual"
+      "comment" : "Ultralight Reader",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ultralight Lesegerät"
+          }
+        }
+      }
     },
-    "Which tag types to search for. If unsure leave all enabled." : {
-      "extractionState" : "manual"
+    "Which Tag Types to search for. If unsure leave all enabled." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nach welchen Tag Tpyen gesucht werden soll. Wenn Sie sich unsicher sind, lassen Sie alle aktiviert."
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

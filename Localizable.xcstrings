@@ -13,7 +13,16 @@
     "Back" : {
       "extractionState" : "manual"
     },
+    "Beta" : {
+      "extractionState" : "manual"
+    },
     "Cancel" : {
+      "extractionState" : "manual"
+    },
+    "Change Log" : {
+      "extractionState" : "manual"
+    },
+    "Close" : {
       "extractionState" : "manual"
     },
     "Date" : {

@@ -25,6 +25,9 @@
     "Close" : {
       "extractionState" : "manual"
     },
+    "Connecting to chip" : {
+      "extractionState" : "manual"
+    },
     "Date" : {
       "extractionState" : "manual"
     },
@@ -44,6 +47,9 @@
       "extractionState" : "manual"
     },
     "key_retain.bin does not match expected file hash." : {
+      "extractionState" : "manual"
+    },
+    "Made with love" : {
       "extractionState" : "manual"
     },
     "Manually Create" : {

@@ -31,6 +31,9 @@
     "Date" : {
       "extractionState" : "manual"
     },
+    "Discard and Close" : {
+      "extractionState" : "manual"
+    },
     "Enable Haptics" : {
       "extractionState" : "manual"
     },
@@ -71,6 +74,9 @@
       "extractionState" : "manual"
     },
     "Reader Settings" : {
+      "extractionState" : "manual"
+    },
+    "Save and Close" : {
       "extractionState" : "manual"
     },
     "Sign in with Chariz" : {

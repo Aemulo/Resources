@@ -2,22 +2,54 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Added Key Path" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已添加的键路径（KeyPath）"
+          }
+        }
+      }
     },
     "Amiibo Key Path" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amiibo的键路径（KeyPath）"
+          }
+        }
+      }
     },
     "Amiibo Reader" : {
       "extractionState" : "manual"
     },
     "Back" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "返回"
+          }
+        }
+      }
     },
     "Beta" : {
       "extractionState" : "manual"
     },
     "Cancel" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
     },
     "Change Log" : {
       "extractionState" : "manual"
@@ -29,28 +61,84 @@
       "extractionState" : "manual"
     },
     "Date" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日期"
+          }
+        }
+      }
     },
     "Discard and Close" : {
       "extractionState" : "manual"
     },
     "Enable Haptics" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用触觉反馈"
+          }
+        }
+      }
     },
     "Failed with: %@" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "失败，原因是： %@"
+          }
+        }
+      }
     },
     "General" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通用"
+          }
+        }
+      }
     },
     "Invalid Key Path" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无效的键路径( Key Path)"
+          }
+        }
+      }
     },
     "key_retail.bin is invalid size. Should be 160 bytes." : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "key_retail.bin 文件大小不正确，大小应该是160 bytes。"
+          }
+        }
+      }
     },
     "key_retain.bin does not match expected file hash." : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "key_retain.bin 的哈希值和预期文件不一致。"
+          }
+        }
+      }
     },
     "Made with love" : {
       "extractionState" : "manual"
@@ -59,55 +147,159 @@
       "extractionState" : "manual"
     },
     "MiFare Dictionary Attack" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MiFare 字典攻击"
+          }
+        }
+      }
     },
     "Name" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名称"
+          }
+        }
+      }
     },
     "Present Phone to Reader" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将手机放到读卡器附近"
+          }
+        }
+      }
     },
     "Present Tag to Read" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将卡片放到读卡器前"
+          }
+        }
+      }
     },
     "Read Tag" : {
       "extractionState" : "manual"
     },
     "Reader Settings" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "读卡器设置"
+          }
+        }
+      }
     },
     "Save and Close" : {
       "extractionState" : "manual"
     },
     "Sign in with Chariz" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通过 Chariz 登陆"
+          }
+        }
+      }
     },
     "Sort By" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "排序"
+          }
+        }
+      }
     },
     "Standard Reader" : {
       "extractionState" : "manual"
     },
     "Type A" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type A"
+          }
+        }
+      }
     },
     "Type ACM" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type ACM"
+          }
+        }
+      }
     },
     "Type B" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type B"
+          }
+        }
+      }
     },
     "Type ISO 15693" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type ISO 15693"
+          }
+        }
+      }
     },
     "Type V" : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type V"
+          }
+        }
+      }
     },
     "Ultralight Reader" : {
       "extractionState" : "manual"
     },
     "Which tag types to search for. If unsure leave all enabled." : {
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将要搜索哪种类型的卡片？如果不确定，就开启所有类型。"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

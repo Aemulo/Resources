@@ -2,22 +2,22 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Added Key Path" : {
-      "extractionState" : "manual"
+      "extractionState" : "Key Path Added Successfully"
     },
     "Amiibo Key Path" : {
-      "extractionState" : "manual"
+      "extractionState" : "Amiibo Key Path"
     },
     "Amiibo Reader" : {
-      "extractionState" : "manual"
+      "extractionState" : "Amiibo Reader"
     },
     "Back" : {
-      "extractionState" : "manual"
+      "extractionState" : "Back"
     },
     "Beta" : {
       "extractionState" : "manual"
     },
     "Cancel" : {
-      "extractionState" : "manual"
+      "extractionState" : "Cancel"
     },
     "Change Log" : {
       "extractionState" : "manual"
@@ -29,85 +29,85 @@
       "extractionState" : "manual"
     },
     "Date" : {
-      "extractionState" : "manual"
+      "extractionState" : "Date"
     },
     "Discard and Close" : {
       "extractionState" : "manual"
     },
     "Enable Haptics" : {
-      "extractionState" : "manual"
+      "extractionState" : "Haptics Enabled"
     },
     "Failed with: %@" : {
-      "extractionState" : "manual"
+      "extractionState" : "Error State: %@"
     },
     "General" : {
-      "extractionState" : "manual"
+      "extractionState" : "General"
     },
     "Invalid Key Path" : {
-      "extractionState" : "manual"
+      "extractionState" : "Wrong Key Path"
     },
     "key_retail.bin is invalid size. Should be 160 bytes." : {
-      "extractionState" : "manual"
+      "extractionState" : "Invalid Size, Needs to be 160 Bytes."
     },
     "key_retain.bin does not match expected file hash." : {
-      "extractionState" : "manual"
+      "extractionState" : ".bin file doesn't match expected file hash."
     },
     "Made with love" : {
       "extractionState" : "manual"
     },
     "Manually Create" : {
-      "extractionState" : "manual"
+      "extractionState" : "Manually Create"
     },
     "MiFare Dictionary Attack" : {
-      "extractionState" : "manual"
+      "extractionState" : "MiFare Brute Attack"
     },
     "Name" : {
-      "extractionState" : "manual"
+      "extractionState" : "Name"
     },
     "Present Phone to Reader" : {
-      "extractionState" : "manual"
+      "extractionState" : "Place Phone to Reader"
     },
     "Present Tag to Read" : {
-      "extractionState" : "manual"
+      "extractionState" : "Present Tag to Read"
     },
     "Read Tag" : {
-      "extractionState" : "manual"
+      "extractionState" : "Read Tag"
     },
     "Reader Settings" : {
-      "extractionState" : "manual"
+      "extractionState" : "Reader Settings"
     },
     "Save and Close" : {
       "extractionState" : "manual"
     },
     "Sign in with Chariz" : {
-      "extractionState" : "manual"
+      "extractionState" : "Sign in with Chariz"
     },
     "Sort By" : {
-      "extractionState" : "manual"
+      "extractionState" : "Sort By"
     },
     "Standard Reader" : {
-      "extractionState" : "manual"
+      "extractionState" : "Standard Reader"
     },
     "Type A" : {
-      "extractionState" : "manual"
+      "extractionState" : "Type A"
     },
     "Type ACM" : {
-      "extractionState" : "manual"
+      "extractionState" : "Type ACM"
     },
     "Type B" : {
-      "extractionState" : "manual"
+      "extractionState" : "Type B"
     },
     "Type ISO 15693" : {
-      "extractionState" : "manual"
+      "extractionState" : "Type ISO 15693"
     },
     "Type V" : {
-      "extractionState" : "manual"
+      "extractionState" : "Type V"
     },
     "Ultralight Reader" : {
-      "extractionState" : "manual"
+      "extractionState" : "Ultralight Reader"
     },
     "Which tag types to search for. If unsure leave all enabled." : {
-      "extractionState" : "manual"
+      "extractionState" : "Which tag types to search for. If unsure leave all enabled."
     }
   },
   "version" : "1.0"

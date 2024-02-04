@@ -1,23 +1,23 @@
 {
-  "sourceLanguage" : "en",
+  "sourceLanguage" : "ru",
   "strings" : {
     "Added Key Path" : {
-      "extractionState" : "manual"
+      "extractionState" : "Добавлен путь к ключу"
     },
     "Amiibo Key Path" : {
-      "extractionState" : "manual"
+      "extractionState" : "Путь к ключу Amiibo"
     },
     "Amiibo Reader" : {
-      "extractionState" : "manual"
+      "extractionState" : "Чтение Amiibo"
     },
     "Back" : {
-      "extractionState" : "manual"
+      "extractionState" : "Назад"
     },
     "Beta" : {
       "extractionState" : "manual"
     },
     "Cancel" : {
-      "extractionState" : "manual"
+      "extractionState" : "Отмена"
     },
     "Change Log" : {
       "extractionState" : "manual"
@@ -29,85 +29,85 @@
       "extractionState" : "manual"
     },
     "Date" : {
-      "extractionState" : "manual"
+      "extractionState" : "Дата"
     },
     "Discard and Close" : {
       "extractionState" : "manual"
     },
     "Enable Haptics" : {
-      "extractionState" : "manual"
+      "extractionState" : "Включить тактильную отдачу"
     },
     "Failed with: %@" : {
-      "extractionState" : "manual"
+      "extractionState" : "Не удалось: %@"
     },
     "General" : {
-      "extractionState" : "manual"
+      "extractionState" : "Основные"
     },
     "Invalid Key Path" : {
-      "extractionState" : "manual"
+      "extractionState" : "Неверный путь к ключу"
     },
     "key_retail.bin is invalid size. Should be 160 bytes." : {
-      "extractionState" : "manual"
+      "extractionState" : "key_retail.bin имеет недопустимый размер. Должен быть 160 байт."
     },
     "key_retain.bin does not match expected file hash." : {
-      "extractionState" : "manual"
+      "extractionState" : "key_retain.bin не соответствует ожидаемому хешу файла."
     },
     "Made with love" : {
       "extractionState" : "manual"
     },
     "Manually Create" : {
-      "extractionState" : "manual"
+      "extractionState" : "Создать вручную"
     },
     "MiFare Dictionary Attack" : {
-      "extractionState" : "manual"
+      "extractionState" : "Атака по словарю MiFare"
     },
     "Name" : {
-      "extractionState" : "manual"
+      "extractionState" : "Имя"
     },
     "Present Phone to Reader" : {
-      "extractionState" : "manual"
+      "extractionState" : "Поднести телефон к считывателю"
     },
     "Present Tag to Read" : {
-      "extractionState" : "manual"
+      "extractionState" : "Поднести тег для чтения"
     },
     "Read Tag" : {
-      "extractionState" : "manual"
+      "extractionState" : "Прочесть тег"
     },
     "Reader Settings" : {
-      "extractionState" : "manual"
+      "extractionState" : "Настройки чтения"
     },
     "Save and Close" : {
       "extractionState" : "manual"
     },
     "Sign in with Chariz" : {
-      "extractionState" : "manual"
+      "extractionState" : "Войти с Chariz"
     },
     "Sort By" : {
-      "extractionState" : "manual"
+      "extractionState" : "Сортировать по"
     },
     "Standard Reader" : {
-      "extractionState" : "manual"
+      "extractionState" : "Стандартный считыватель"
     },
     "Type A" : {
-      "extractionState" : "manual"
+      "extractionState" : "Тип A"
     },
     "Type ACM" : {
-      "extractionState" : "manual"
+      "extractionState" : "Тип ACM"
     },
     "Type B" : {
-      "extractionState" : "manual"
+      "extractionState" : "Тип B"
     },
     "Type ISO 15693" : {
-      "extractionState" : "manual"
+      "extractionState" : "Тип ISO 15693"
     },
     "Type V" : {
-      "extractionState" : "manual"
+      "extractionState" : "Тип V"
     },
     "Ultralight Reader" : {
-      "extractionState" : "manual"
+      "extractionState" : "Ультралегкий считыватель"
     },
     "Which tag types to search for. If unsure leave all enabled." : {
-      "extractionState" : "manual"
+      "extractionState" : "Какие типы тегов следует искать. Если не уверены, оставьте все включенным."
     }
   },
   "version" : "1.0"
